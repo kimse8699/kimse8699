@@ -1,5 +1,10 @@
 <!-- Venom Theme Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:121212,50:2A0000,100:000000&height=220&section=header&text=WE%20ARE%20VENOM&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=35&stroke=ffffff&strokeWidth=2&animation=fadeIn" alt="Venom Header" />
+<div align="center">
+
+  <!-- Venom Type Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=%EA%B9%80%EB%90%83%EC%A5%90&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="Venom Kim Ddatjwi" />
+
+</div>
 
 <div align="center">
 
