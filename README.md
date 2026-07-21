@@ -15,13 +15,13 @@
 
 ## 👨‍💻 About Me
 
-I keep backend systems running so users can experience seamless services. **Java**, **Spring Boot**, **Python**, and **FastAPI** are my bread and butter—building reliable REST APIs, database platforms, and scalable server architectures that surface problems before they affect production.
+안녕하세요, 백엔드 개발자 **김세훈**입니다.
 
-I'm an active developer focusing on backend logic and system integration, with projects spanning distributed backend systems, database optimization, web security, and AI service infrastructure.
+주로 **Java, Spring Boot, Python, FastAPI**를 활용해 안정적인 서버와 API를 만들고 있습니다. 
 
-I specialize in modern backend engineering and server infrastructure. Currently exploring **AI Integration**, **High-performance API design**, and **System Optimization**—focusing on practical systems that improve service reliability rather than chasing hype.
+거창한 수식어보다는 **기본에 충실한 코드, 문제 없이 잘 돌아가는 시스템, 지속 가능한 성장**을 중요하게 생각합니다.
 
-`npx kimse8699` if you want the quick version.
+단순히 기술을 사용하는 것에 그치지 않고, 사용자에게 실질적인 가치를 주는 서비스를 만드는 개발자가 되는 것이 목표입니다.
 
 <hr />
 
