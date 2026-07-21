@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">SeHun Kim</h1>
+<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Kim Se-Hun</h1>
 <p align="center" style="margin-top: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Software+Developer+%E2%80%A2+Problem+Solver;Building+reliable+and+scalable+services;Constantly+learning+and+growing" alt="Typing subtitle" />
 </p>
