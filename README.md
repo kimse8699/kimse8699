@@ -1,5 +1,5 @@
 <!-- Header section: A sleek, customizable dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20kimse8699&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=안녕하세요,%20저는%20김땃쥐입니다.&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header" />
 
 <div align="center">
 
