@@ -1,93 +1,87 @@
-<!-- Header section: A sleek, customizable dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20kimse8699&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header" />
+<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Lohit Kolluri</h1>
+<p align="center" style="margin-top: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Platform+Engineer+%E2%80%A2+Cloud+%26+Infrastructure;Building+reliable+and+observable+systems;Open+Source+Contributor" alt="Typing subtitle" />
+</p>
+
+<p align="center">
+  <a href="https://lohit.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kollurilohit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:lohitkolluri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/lohitkolluri" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/package/lohitkolluri" target="_blank"><img src="https://img.shields.io/badge/npx_lohitkolluri-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npx card" /></a>
+</p>
+
+
+
+<hr />
+
+## 👨‍💻 About Me
+
+
+
+I keep infrastructure running so teams can ship without surprises. **Kubernetes**, **CI/CD**, **GitOps**, and **observability** are my bread and butter—building reliable delivery pipelines, container platforms, and monitoring with **Prometheus** and **Grafana** that surfaces problems before they become incidents.
+
+I'm an active open source contributor to projects including `helm/helm`, `moby/moby`, `moby/swarmkit`, `prometheus/prometheus`, `prometheus-operator`, `apache/airflow`, `jenkinsci/jenkins`, `grafana/grafana`, `cockroachdb/cockroach`, `argoproj/argo-cd`, and `docker/model-runner`, with contributions spanning distributed systems, cloud-native infrastructure, observability, CI/CD, databases, and AI infrastructure.
+
+I hold **Microsoft** certifications (`AI-900`, `AZ-900`, `SC-900`) and **GitHub Foundations**. Currently exploring **GenAI**, **LLM infrastructure**, and **autonomous DevOps**—focusing on practical systems that improve platform reliability rather than chasing hype.
+
+`npx lohitkolluri` if you want the quick version.
+
+<hr />
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-  <!-- A dynamic typing effect for your title/role -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </h3>
-
-  <!-- Social Media & Contact Badges -->
-  <a href="mailto:your.email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://your-blog-link.com">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <br />
-  <br />
-
-  <!-- A short, welcoming introduction -->
-  <p>
-    안녕하세요! 더 나은 세상을 만드는 코드를 작성하는 개발자, **kimse8699**입니다. <br />
-    새로운 기술을 배우고 이를 프로젝트에 적용하여 가치를 창출하는 것을 즐깁니다.
-  </p>
-
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <br />
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
-  <br />
-
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Readme Stats: General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kimse8699&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="kimse8699's GitHub stats" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
-
-  <!-- GitHub Readme Stats: Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimse8699&layout=compact&theme=radical&hide_title=false" alt="Top Langs" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,express" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions,terraform" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=prometheus,git,github,vscode,postman" />
 </div>
 
 <br />
 
 <div align="center">
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimse8699&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimse8699&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
