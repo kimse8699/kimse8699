@@ -25,33 +25,6 @@
 
 <hr />
 
-<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">SeHun Kim</h1>
-<p align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer+%E2%80%A2+System+Architecture;Building+reliable+and+scalable+services;Open+Source+Contributor" alt="Typing subtitle" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/npx_kimse8699-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npx card" /></a>
-</p>
-
-<hr />
-
-## 👨‍💻 About Me
-
-안녕하세요, 개발자 **김세훈**입니다.
-
-주로 **Java, Spring Boot, Python, FastAPI** 그리고 **React**를 활용해 안정적인 서비스와 API를 만들고 있습니다. 
-
-거창한 수식어보다는 **기본에 충실한 코드, 문제 없이 잘 돌아가는 시스템, 지속 가능한 성장**을 중요하게 생각합니다.
-
-단순히 기술을 사용하는 것에 그치지 않고, 사용자에게 실질적인 가치를 주는 서비스를 만드는 개발자가 되는 것이 목표입니다.
-
-<hr />
-
 ## 🛠️ Tech Stack
 
 <div align="center">
