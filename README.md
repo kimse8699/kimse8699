@@ -1,71 +1,47 @@
-<!-- Venom Theme Header Banner -->
-<div align="center">
+# 🚀 Hi, I'm Sehoon Kim (김세훈) 👋
 
-  <!-- Venom Type Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=김땃쥐&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="Venom Kim Ddatjwi" />
-
-</div>
-
-<div align="center">
-
-  <!-- Dynamic Typing Title -->
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=HELLO%2C+I'M+KIMSE8699;FULL-STACK+DEVELOPER;WE+ARE+CODING+PARASITES" alt="Typing SVG" />
-  </h3>
-
-  <!-- Contact Badges -->
-  <a href="mailto:your.email@email.com">
-    <img src="https://img.shields.io/badge/EMAIL-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-blog-link.com">
-    <img src="https://img.shields.io/badge/BLOG-121212?style=for-the-badge&logo=vimeo&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://github.com/kimse8699">
-    <img src="https://img.shields.io/badge/GITHUB-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</div>
-
-<br />
+> **"단단하고 확장성 있는 백엔드 시스템을 만들어가는 개발자입니다."**
 
 ---
 
-### 🕷️ TECH STACK
-
-<div align="center">
-
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TS" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-
-</div>
+### 👨‍💻 About Me
+* 🎓 **Education:** 국립안동대학교 멀티미디어공학과
+* 🎯 **Focus:** Java & Python 기반의 백엔드 시스템 설계 및 개발
+* 💡 **Interest:** 도파민 디톡스 라이프스타일, 풋살/축구 ⚽, AI 활용 웹 서비스
 
 ---
 
-### 📊 SYMBIOTE STATS
+### 🛠️ Tech Stack
 
-<div align="center">
+#### **Backend & Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
-  <!-- GitHub Stats (안정적인 서버 서버 링크로 교체) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kimse8699&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="kimse8699's GitHub stats" />
-  &nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimse8699&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=aaaaaa" alt="Top Langs" />
+#### **Tools & Collaboration**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-</div>
+---
 
-<br />
+### 📊 GitHub Stats
 
-<div align="center">
-  <!-- Visitor Count (Mojo 카운터로 변경) -->
-  <img src="https://komarev.com/ghpvc/?username=kimse8699&color=darkred&style=flat-square&label=VISITORS" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radial" alt="Sehoon's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radial" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+* **Email:** your_email@example.com
+* **Blog / Velog:** [내 블로그 링크](https://your-blog-link.com)
+
+---
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day! ✨</i>
+</p>
