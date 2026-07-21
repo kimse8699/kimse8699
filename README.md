@@ -1,93 +1,66 @@
-<!-- Header section: A sleek, customizable dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=안녕하세요,%20저는%20김땃쥐입니다.&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header" />
+<!-- Venom Theme Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:121212,50:2A0000,100:000000&height=220&section=header&text=WE%20ARE%20VENOM&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=35&stroke=ffffff&strokeWidth=2&animation=fadeIn" alt="Venom Header" />
 
 <div align="center">
 
-  <!-- A dynamic typing effect for your title/role -->
+  <!-- Dynamic Typing Title -->
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=HELLO%2C+I'M+KIMSE8699;FULL-STACK+DEVELOPER;WE+ARE+CODING+PARASITES" alt="Typing SVG" />
   </h3>
 
-  <!-- Social Media & Contact Badges -->
+  <!-- Contact Badges (Monochrome / Dark Style) -->
   <a href="mailto:your.email@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/EMAIL-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-blog-link.com">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/BLOG-121212?style=for-the-badge&logo=vimeo&logoColor=white" alt="Blog" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/kimse8699">
+    <img src="https://img.shields.io/badge/GITHUB-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <br />
-  <br />
-
-  <!-- A short, welcoming introduction -->
-  <p>
-    안녕하세요! 더 나은 세상을 만드는 코드를 작성하는 개발자, **kimse8699**입니다. <br />
-    새로운 기술을 배우고 이를 프로젝트에 적용하여 가치를 창출하는 것을 즐깁니다.
-  </p>
 
 </div>
 
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <br />
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-
-  <br />
-
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-</div>
+<br />
 
 ---
 
-### 📊 GitHub Stats
+### 🕷️ TECH STACK
 
 <div align="center">
 
-  <!-- GitHub Readme Stats: General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kimse8699&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="kimse8699's GitHub stats" />
+  <!-- Languages & Frameworks (Dark Tone) -->
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TS" />
   
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
+  <br />
 
-  <!-- GitHub Readme Stats: Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimse8699&layout=compact&theme=radical&hide_title=false" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+
+</div>
+
+---
+
+### 📊 SYMBIOTE STATS
+
+<div align="center">
+
+  <!-- GitHub Stats Card (Dark/Radical Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kimse8699&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimse8699&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&text_color=aaaaaa" alt="Top Langs" />
 
 </div>
 
 <br />
 
 <div align="center">
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimse8699&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimse8699&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+  <!-- Visitor Count -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimse8699&count_bg=%232A0000&title_bg=%23121212&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Hits" />
 </div>
