@@ -11,7 +11,7 @@
 
 <hr />
 
-## About Me
+## 👨‍💻 About Me
 
 안녕하세요, 개발자 **김세훈**입니다.
 
@@ -23,7 +23,7 @@
 
 <hr />
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,bash" />
