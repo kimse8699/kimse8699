@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://your-company-url.com" target="_blank">
-  <img src="https://img.shields.io/badge/SONGLIM-f2e8bf?style=for-the-badge&logo=briefcase&logoColor=222222&color=222222" alt="SONGLIM" />
+  <img src="https://img.shields.io/badge/Company-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Company" />
 </a>&nbsp;&nbsp;
   <a href="mailto:kimse8699@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
