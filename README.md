@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-company-url.com" target="_blank"><img src="https://img.shields.io/badge/Company-181717?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Company" /></a>&nbsp;&nbsp;
+  <a href="https://your-company-url.com" target="_blank"><img src="https://img.shields.io/badge/SONGLIM-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4" alt="SONGLIM" /></a>&nbsp;&nbsp;
   <a href="mailto:kimse8699@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
   <a href="https://github.com/kimse8699" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
